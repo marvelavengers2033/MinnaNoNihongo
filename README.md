@@ -1,5 +1,5 @@
 # minnanonihongo
-# This application will convert the Minna No Nihongo physical book into a Web Application
+# This application will convert the Minna No Nihongo physical book into a Web Application and make us all learn Japanese in 1 day!!!
 
 ## Project setup
 ```
