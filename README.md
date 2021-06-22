@@ -1,4 +1,5 @@
 # minnanonihongo
+# This application will convert the Minna No Nihongo physical book into a Web Application
 
 ## Project setup
 ```
