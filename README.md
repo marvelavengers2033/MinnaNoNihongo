@@ -1,11 +1,10 @@
-# minnanonihongo
-```
-This application will convert the Minna No Nihongo physical book into a Web Applicationsss
-```
+# Minna No Nihongo みんなの日本語
 
-# This application will convert the Minna No Nihongo physical book into a Web Application
- HI!!!!!
- 
+This application will convert the Minna No Nihongo physical book into a Web Application.
+Not sure if we are going to have some legal copyright issues lol.
+
+Hi!
+
 ## Project setup
 ```
 npm install
